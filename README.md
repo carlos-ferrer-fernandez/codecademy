@@ -1,4 +1,4 @@
-# codecademy-projects
+# Codecademy
 
 Data Science Career Path - Off-platform projects
 
